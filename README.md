@@ -28,6 +28,8 @@ The grades of nineth graders at Thomas High School were incorrect and needed to 
 
 ### How is the district summary affected?
 ![screenshot](https://github.com/Abigail-Woolf/School_District_Analysis/blob/master/Pre_edit_Summ_Stats.png)
+
+![screenshot](https://github.com/Abigail-Woolf/School_District_Analysis/blob/master/Post_edit_Summ_Stats.png)
   The district summary is affected by the absence of THS data. All of the averages and scores decreased except for the Average Reading Score, which remained the same. The biggest change, however, occurred in the % Passing Reading with a 1.3 percent change.
 #### How is the school summary affected?
   The school summary dataframe is affected because all of the data from Thomas High School was removed. All of the data from the other schools remained unchanged.
