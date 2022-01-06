@@ -37,7 +37,12 @@ The grades of nineth graders at Thomas High School were incorrect and needed to 
 Recalculate the high- and low-performing schools.
   After recalculating which schools ranked in the top five, Thomas High School was removed and Wright High School was added as the fifth school. originally, THS was ranked second, so all the schools starting at rank two moved up. 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools? 
-
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+### How does replacing the ninth-grade scores affect the following?
+Math and Reading Scores by Grade
+Scores by School Spending
+Scores by School Size
+Scores by School Type
   Removing the math and reading scores from the nineth graders changed the THS ranking of bottom schools from 14 to 8. The removed scores of the nineth graders, brought the entire school's averages down, thus moving its rank towards the bottom of the list. 
   
 Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
