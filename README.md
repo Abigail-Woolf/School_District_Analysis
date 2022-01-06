@@ -1,4 +1,7 @@
 # School District Analysis
+Introduction to Jupyter Notebooks (product of Anaconda) and Pandas (library for data manipulation and analysis) 
+data wrangling/ data munging
+Using Jupyter Notebook and the Pandas library, you’ll read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs to tell a story.
 Python3 and Anaconda
 ## Challenge
 The grades of nineth graders at Thomas High School were incorrect and needed to be removed from the data analysis. Once that was complete, there were some changes to the results.
