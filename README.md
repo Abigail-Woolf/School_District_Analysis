@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 Python3 and Anaconda
 ## Challenge
 The grades of nineth graders at Thomas High School were incorrect and needed to be removed from the data analysis. Once that was complete, there were some changes to the results.
