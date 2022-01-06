@@ -6,7 +6,19 @@ Python3 and Anaconda
 create virtual environment for python projects called PythonData python 3.7
 conda create -n PythonData python=3.7 anaconda
 to check all conda environments: conda info --envs
+A Pandas Series is a one-dimensional, labeled array capable of holding any data type. This means the data is linear and has an index that acts as a key in a dictionary.
 
+Here is the list of deliverables for the analysis of the school district: 
+
+A high-level snapshot of the district's key metrics, presented in a table format
+An overview of the key metrics for each school, presented in a table format
+Tables presenting each of the following metrics:
+Top 5 and bottom 5 performing schools, based on the overall passing rate
+The average math score received by students in each grade level at each school
+The average reading score received by students in each grade level at each school
+School performance based on the budget per student
+School performance based on the school size 
+School performance based on the type of school
 
 prepare standarize test data and funding
 aggregat data and showcase trends in students performances
